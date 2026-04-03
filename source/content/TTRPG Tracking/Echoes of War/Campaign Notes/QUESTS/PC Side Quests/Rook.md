@@ -1,1 +1,1 @@
-Shares a nightmare with Ember of a red-cloaked figure with a gold(?) mask.
+Shares a nightmare with [[Ember Blackthorn-Fenwick]] of a red-cloaked figure with a gold(?) mask.
