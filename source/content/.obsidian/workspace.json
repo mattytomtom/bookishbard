@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign Notes for Echoes of War.md",
+                "file": "Index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Campaign Notes for Echoes of War"
+              "title": "Index"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign Notes for Echoes of War.md",
+                "file": "Index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Campaign Notes for Echoes of War"
+              "title": "Index"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign Notes for Echoes of War.md",
+                "file": "Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Campaign Notes for Echoes of War"
+              "title": "Backlinks for Index"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign Notes for Echoes of War.md",
+                "file": "Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Campaign Notes for Echoes of War"
+              "title": "Outgoing links from Index"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign Notes for Echoes of War.md",
+                "file": "Index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Campaign Notes for Echoes of War"
+              "title": "Outline of Index"
             }
           }
         ]
@@ -192,7 +192,7 @@
     "TTRPG Tracking/Echoes of War/Reference/When/Cormyrian Timeline, 1275 to Present.md",
     "category-folder/index.md",
     "category-folder/Some note.md",
-    "Campaign Notes for Echoes of War.md",
+    "Index.md",
     "category-folder"
   ]
 }
