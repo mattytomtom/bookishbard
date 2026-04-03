@@ -16,9 +16,7 @@
                 "file": "index.md",
                 "mode": "source",
                 "source": false
-              },
-              "icon": "lucide-file",
-              "title": "index"
+              }
             }
           },
           {
@@ -27,12 +25,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TTRPG Tracking/Echoes of War/Campaign Notes/IRL Session Notes, Dated/3-14-26, Session 2, The Serpent's Kiss.md",
+                "file": "category-folder/Some note.md",
                 "mode": "source",
                 "source": false
-              },
-              "icon": "lucide-file",
-              "title": "3-14-26, Session 2, The Serpent's Kiss"
+              }
             }
           }
         ],
@@ -55,11 +51,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
@@ -74,9 +67,7 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
+              }
             }
           },
           {
@@ -84,9 +75,7 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "state": {}
             }
           }
         ]
@@ -117,9 +106,7 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Some note"
+              }
             }
           },
           {
@@ -131,9 +118,7 @@
                 "file": "category-folder/Some note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Some note"
+              }
             }
           },
           {
@@ -143,12 +128,8 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
+                "useHierarchy": true
+              }
             }
           },
           {
@@ -157,13 +138,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "category-folder/Some note.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Some note"
+                "file": "category-folder/Some note.md"
+              }
             }
           }
         ]
@@ -176,7 +152,6 @@
   "left-ribbon": {
     "hiddenItems": {
       "obsidian-git:Open Git source control": false,
-      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -187,14 +162,9 @@
   },
   "active": "2d8837e6263008e3",
   "lastOpenFiles": [
-    "TTRPG Tracking/Echoes of War/Campaign Notes/IRL Session Notes, Dated/4-25-26, Session 3.md",
-    "TTRPG Tracking/Echoes of War/Reference/When/Calendar of Harptos.md",
-    "TTRPG Tracking/Echoes of War/Reference/What/Cormyrian Lore.md",
-    "TTRPG Tracking/Echoes of War/Reference/Where/Maps/Interactive Cormyr.md",
-    "TTRPG Tracking/Echoes of War/Campaign Notes/IRL Session Notes, Dated/2-21-26, Session 0 and 1.md",
-    "index.md",
     "category-folder/index.md",
     "category-folder/Some note.md",
+    "index.md",
     "category-folder"
   ]
 }
