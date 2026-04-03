@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "TTRPG Tracking/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -188,11 +188,12 @@
   },
   "active": "2d8837e6263008e3",
   "lastOpenFiles": [
+    "index.md",
+    "TTRPG Tracking/index.md",
     "TTRPG Tracking/Echoes of War/Reference/Where/Maps/Interactive Cormyr.md",
     "TTRPG Tracking/Echoes of War/Reference/When/Cormyrian Timeline, 1275 to Present.md",
     "category-folder/index.md",
     "category-folder/Some note.md",
-    "index.md",
     "category-folder"
   ]
 }
