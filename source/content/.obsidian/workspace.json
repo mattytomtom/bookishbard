@@ -97,16 +97,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TTRPG Tracking/Echoes of War/Reference/Where/Locational Lore.md",
+                "file": "TTRPG Tracking/Echoes of War/Reference/Who/The Party/Ascánthir Crithatri.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ascánthir Crithatri"
+            }
+          },
+          {
+            "id": "4c98c335fc7fe265",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TTRPG Tracking/Echoes of War/Reference/Who/The Party/Ascánthir Crithatri.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ascánthir Crithatri"
+            }
+          },
+          {
+            "id": "5b3fefa064e18b0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TTRPG Tracking/Echoes of War/Reference/Who/The Party/Vaelithra Igristisk.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vaelithra Igristisk"
+            }
+          },
+          {
+            "id": "db3a575f0e76a766",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TTRPG Tracking/Echoes of War/Campaign Notes/QUESTS/Current Party Quests.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Locational Lore"
+              "title": "Current Party Quests"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -253,37 +295,38 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "0e11a4eec7af2ba5",
+  "active": "db3a575f0e76a766",
   "lastOpenFiles": [
-    "index.md",
-    "TTRPG Tracking/Echoes of War/Reference/Who/The Party/Ascánthir Crithatri.md",
-    "TTRPG Tracking/Echoes of War/Reference/Who/The Party/Ember Blackthorn-Fenwick.md",
-    "TTRPG Tracking/Echoes of War/Campaign Notes/QUESTS/PC Side Quests/Forge.md",
+    "TTRPG Tracking/Echoes of War/Campaign Notes/QUESTS/Completed Quests.md",
+    "TTRPG Tracking/Echoes of War/Campaign Notes/QUESTS/PC Side Quests/Ven.md",
+    "TTRPG Tracking/Echoes of War/Campaign Notes/QUESTS/PC Side Quests/Ysgraviir.md",
+    "TTRPG Tracking/Echoes of War/Campaign Notes/QUESTS/PC Side Quests/Vaelithra.md",
+    "TTRPG Tracking/Echoes of War/Campaign Notes/QUESTS/PC Side Quests/Rook.md",
     "TTRPG Tracking/Echoes of War/Campaign Notes/QUESTS/PC Side Quests/Ember.md",
+    "TTRPG Tracking/Echoes of War/Campaign Notes/QUESTS/PC Side Quests/Forge.md",
     "TTRPG Tracking/Echoes of War/Campaign Notes/QUESTS/PC Side Quests/Ascánthir.md",
-    "TTRPG Tracking/Echoes of War/Campaign Notes/IRL Session Notes, Dated/3-14-26, Session 2, The Serpent's Kiss.md",
-    "TTRPG Tracking/Echoes of War/Campaign Notes/IRL Session Notes, Dated/2-21-26, Session 0 and 1.md",
-    "Quest.md",
-    "TTRPG Tracking/Echoes of War/Reference/Where/Maps/Cormyr.md",
+    "TTRPG Tracking/z_Templates/Custom Name (Collapsed).md",
+    "TTRPG Tracking/z_Templates/Info.md",
+    "TTRPG Tracking/z_Templates/Event Note.md",
+    "TTRPG Tracking/z_Templates/Danger.md",
+    "TTRPG Tracking/z_Templates/Timeline Event with Pic.md",
+    "TTRPG Tracking/z_Templates/Success.md",
+    "TTRPG Tracking/z_Templates/Simple Timeline Event.md",
+    "TTRPG Tracking/z_Templates/Question.md",
+    "TTRPG Tracking/z_Templates/Note.md",
+    "TTRPG Tracking/Echoes of War/Reference/Who/The Party/Ascánthir Crithatri.md",
     "TTRPG Tracking/Echoes of War/Reference/Who/NPCs/Suzail/Queen Raedra Obarskyr.md",
     "TTRPG Tracking/Echoes of War/Reference/Who/NPCs/Suzail/Prince Erzoured Obarskyr.md",
     "TTRPG Tracking/Echoes of War/Reference/Who/NPCs/Suzail/Prince Baerovus Obarskyr.md",
     "TTRPG Tracking/Echoes of War/Reference/Who/NPCs/Suzail/Opal, High Priestess of Selune.md",
-    "TTRPG Tracking/Echoes of War/Reference/Where/Visited Locations/Suzail.md",
     "TTRPG Tracking/Echoes of War/Reference/Who/NPCs/Suzail/Mistress Ossani Eveningspire.md",
     "TTRPG Tracking/Echoes of War/Reference/Who/NPCs/Suzail/Lady Sarya Crownsilver.md",
     "TTRPG Tracking/Echoes of War/Reference/Who/NPCs/Suzail/Dahlia.md",
-    "TTRPG Tracking/Echoes of War/Reference/Who/The Party/Ven Kallix.md",
-    "TTRPG Tracking/Echoes of War/Reference/Who/NPCs/Suzail/Crown Princess Adenia Obarskyr.md",
-    "TTRPG Tracking/Echoes of War/Reference/Who/NPCs/Hilp/Ricon.md",
-    "TTRPG Tracking/Echoes of War/Reference/Who/NPCs/Hilp/Lord Doon Dzavar.md",
-    "TTRPG Tracking/Echoes of War/Reference/Who/NPCs/Hilp/High Priest of Bahamut.md",
-    "TTRPG Tracking/Echoes of War/Reference/Who/NPCs/Hilp/Herald Baldask Delzantar.md",
-    "TTRPG Tracking/Echoes of War/Reference/Who/NPCs/Hilp/Dame Elmess.md",
-    "TTRPG Tracking/Echoes of War/Reference/What/Cormyrian Lore.md",
+    "TTRPG Tracking/Echoes of War/Campaign Notes/IRL Session Notes, Dated/Session 2.md",
     "TTRPG Tracking/Image Log/Suzail Image.jpg",
     "TTRPG Tracking/Image Log/Hilp on Map.png",
     "TTRPG Tracking/Echoes of War/Reference/Where/Visited Locations",

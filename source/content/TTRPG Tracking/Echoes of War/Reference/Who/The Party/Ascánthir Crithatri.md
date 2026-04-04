@@ -1,5 +1,3 @@
 ![[Ascánthir.png]]
-Grandsire Na’thaniél
-![[Na’thaniél.png]]
-Familiar, Brannon
-![[Brannon.png]]
+
+Accompanied by his [[Grandsire Na’thaniél]] and his familiar [[Brannon]]

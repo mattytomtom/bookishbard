@@ -1,1 +1,2 @@
-Not fond of the crown or [[Cormyr]] as a whole, probably seeking his people
+> [!question]- F#@! the Crown  
+> Not fond of the crown or [[Cormyr]] as a whole, probably seeking his people
