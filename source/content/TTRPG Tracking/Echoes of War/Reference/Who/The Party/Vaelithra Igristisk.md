@@ -1,3 +1,3 @@
 ![[Vaelithra Igristisk.png]]
-Verdix, pet Drake
-![[Verdix.png]]
+Has a pet Drake named [[Verdix]]
+[[Vaelithra]] Side Quest Info
