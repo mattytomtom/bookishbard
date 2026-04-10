@@ -4,7 +4,7 @@ Took place 3-14-26, in-game Ches 21st into 22nd 1487
 
 The Party made contact with [[Forge Unbroken]] at the entrance of the cave that Grub informed them on the location of in [[Session 0 and 1]]
 
-The Party, now one member stronger, entered the dragon's cave, dispatched of its minion Kobolds, and saved the local [[Lord Doon Dzavar]].
+The Party, now one member stronger, entered the dragon's cave, dispatched of its minion Kobolds, dispatched the Green Dragon Friroriror itself, and saved the local [[Lord Doon Dzavar]].
 
 [[Lord Doon Dzavar]] advised the Party to seek out a reward from [[Queen Raedra Obarskyr]] in [[Suzail]]
 
