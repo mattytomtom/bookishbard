@@ -1,3 +1,3 @@
 The "Explorer" tree contains relevant files. Ignore the z_templates and Interactive Map, as those don't work on the web version of these notes. Let me know if anything else weird happens and I'll try to fix it.
 
-On mobile browsers, you MUST use the explorer tree (hamburger menu symbol in the top right) to navigate, and reload the page when you want to navigate to a different section. Other methods will break the site. I know it's clunky, but I'm not sure how to fix it right now.
+On mobile browsers, you MUST use the explorer tree (hamburger menu symbol in the top right) to navigate. Clicking around on back links occasionally break the site, requiring a refresh. I know it's clunky, but I'm not sure how to fix it right now.

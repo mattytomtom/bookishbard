@@ -9,9 +9,7 @@ fc-display-name: EventName
 ---
 
 %% The first picture will be displayed in the timeline %%
-%% The first few lines of text will 
-
-be fisplayed in the timeline %%
+%% The first few lines of text will be displayed in the timeline %%
 
 ![[Pasted image 20230507075156.png]]
 
