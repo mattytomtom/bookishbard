@@ -90,51 +90,51 @@ __Enter Chess 23rd__
 
 The Party sets off for their new real estate, taking an easy journey northwest of [[Suzail]].
 
-Upon arriving at what would later be revealed to be named [[Gladehaven Keep]], the Party takes in the scenery: a considerably sized castle with a few decades of wear-and-tear, plenty of farmland, and 3 little shacks, one being less well-kept than the others. Spotting a man working the field, [[Ven Kallix]] makes contact with Sam, who quickly acknowledges the Party as his new Lords, and quickly makes mention of his family: his (mute) wife Annie, who is with child; a son, Samson; a daughter, Nellie; and mentions Brian, an aspiring bard (who the Party briefly witnessed playing in the Stagg Skull inn in [[Hilp]] in [[Session 0 and 1]]) who left to go adventuring. Brief mention is also made of the sick woman and her two mute children residing in the other shack, though no names were given. After these brief introductions, the Party is urged to share dinner with the family.
+Upon arriving at what would later be revealed to be named [[Gladehaven Keep]], the Party takes in the scenery: a considerably sized castle with a few decades of wear-and-tear, plenty of farmland, and 3 little shacks, one being less well-kept than the others. Spotting a man working the field, [[Ven Kallix]] makes contact with [[Sam]], who quickly acknowledges the Party as his new Lords, and quickly makes mention of his family: his (mute) wife [[Annie]], who is with child; a son, Samson; a daughter, Nellie; and mentions Brian, an aspiring bard (who the Party briefly witnessed playing in the Stagg Skull inn in [[Hilp]] in [[Session 0 and 1]]) who left to go adventuring. Brief mention is also made of the sick woman and her two mute children residing in the other shack, though no names were given. After these brief introductions, the Party is urged to share dinner with the family.
 
 > [!question]- Quest Obtained! The Party: Proper Lords  
 > Turns out, owning this much property will be a lot of work.
 
-Now sat down, Sam urges some discussion to learn about his new Lords, and establishes his willingness to continue to work the land for the Party. 
+Now sat down, [[Sam]] urges some discussion to learn about his new Lords, and establishes his willingness to continue to work the land for the Party. 
 
 > [!question]- Quest Updated! The Party: Proper Lords  
 > Turns out, owning this much property will be a lot of work.
 > 
-> NEW INFO - That was quick. The fields will remain maintained by Sam & family.
+> NEW INFO - That was quick. The fields will remain maintained by [[Sam]] & family.
 
 At one point, [[Ven Kallix]] inquires about the family's literacy, thinking to offer some of his books that describe the feats of the Party so far. Knowledge of the written word is quickly confirmed to be a skill they have little interest in; however, [[Forge Unbroken]] expresses his desire to be taught, and [[Ven Kallix]] happily agrees.
 
 > [!question]- Quest Obtained! Ven and Forge: Tutorship and Discipleship  
 > An illiterate Paladin seeks help from a borderline heretical Deneirian scholar. This'll be fun.
 
-Sam lets the Party know that a rambunctious reptilian creature is locked in a nearby closet, having been left by the tenant of the not-so-well-kept shack. This creature, later revealed to be a Kobold named [[Slither]], was established as being a troublemaker that sought to eat shiny things, prompting its imprisonment. [[Ember Blackthorn-Fenwick]] was quick to take a shine to it, offering coins to earn its trust. Ultimately, it had to be returned to the closet so that the Party to seek a good night's sleep in the very well kept stable on the grounds.
+[[Sam]] lets the Party know that a rambunctious reptilian creature is locked in a nearby closet, having been left by the tenant of the not-so-well-kept shack. This creature, later revealed to be a Kobold named [[Slyther]], was established as being a troublemaker that sought to eat shiny things, prompting its imprisonment. [[Ember Blackthorn-Fenwick]] was quick to take a shine to it, offering coins to earn its trust. Ultimately, it had to be returned to the closet so that the Party to seek a good night's sleep in the very well kept stable on the grounds.
 
-At one point, a person with a bow and some successfully hunted game walks in. This is revealed by Sam to be his mute brother in law, Jared.
+At one point, a person with a bow and some successfully hunted game walks in. This is revealed by [[Sam]] to be his mute brother in law, [[Jerrod]].
 
 Prior to bedtime, [[Ven Kallix]] opts to talk to the farm animals. The farm's donkey has been successfully protective, having killed no fewer than 8 wolves, and the farm's draft horse loves hard work, as it earns good food.
 
 __Enter Ches 24th__
 
-In the middle of the night, [[Ascánthir Crithatri]] teleports into the stable, accompanied by [[Mistress Ossani Eveningspire]], a Goblin, and a red-headed druid of sorts. The Goblin, revealed to be [[Skorgle]], is the father of [[Slither]], and quickly retreats back to his shack. The druid, [[Tenuvian]], is responsive to [[Ven Kallix]]'s intrigued reaction to hearing his name, assuring Ven that they will talk later.
+In the middle of the night, [[Ascánthir Crithatri]] teleports into the stable, accompanied by [[Mistress Ossani Eveningspire]], a Goblin, and a red-headed druid of sorts. The Goblin, revealed to be [[Skorgl]], is the father of [[Slyther]], and quickly retreats back to his shack. The druid, [[Tinuvian]], is responsive to [[Ven Kallix]]'s intrigued reaction to hearing his name, assuring Ven that they will talk later.
 
 > [!question]- Quest Updated! Ven: Circle of the Moon  
 > Obtained in [[Session 2]]
 > 
 > Find out more about the Emerald Enclave
-> - A Gold Dragon named Gil advised to travel to Eveningstar, north of King's Forest, and seek out a fellow named Tenuvian.
+> - A Gold Dragon named Gil advised to travel to Eveningstar, north of King's Forest, and seek out a fellow named [[Tinuvian]].
 > 
-> NEW INFO - Met Tenuvian, but haven't spoken yet.
+> NEW INFO - Met [[Tinuvian]], but haven't spoken yet.
 
 [[Ven Kallix]] gives [[Ascánthir Crithatri]] a quick rundown on what he's missed. The Party goes back to sleep.
 
-Upon waking, [[Ascánthir Crithatri]] seeks the information shared in the Party's dice rolling game. Heartbreakingly, [[Ascánthir Crithatri]] isn't asked a lot about his time away, but it is established that he was interrogated (but didn't snitch), an ancestor of his buffed his sword with a new rune, and he's 222 years old. Things get a little heated when [[Ysgraviir Ysraldsson]] casually entertains the notion of plucking [[Brannon]]'s feathers, which provokes [[Ascánthir Crithatri]] to threaten his life. Jokes are established to be jokes, and [[Ysgraviir Ysraldsson]] pokes fun at the amount of times [[Ven Kallix]] has been asked about his dead wife. This prompts Ven to fetch the bottle he got at the Red Herring, and leave the stable drinking it. He encounters [[Forge Unbroken]] working the fields to help Sam out. At some point, [[Ember Blackthorn-Fenwick]] reveals that her mom drank a Potion of a Fallen Star in the midst of childbirth, and [[Ysgraviir Ysraldsson]] informs the party that he has a sick light emitting ring he took from a hermit he killed. Eventually the Party gathers and learns that the squatters in the Castle may be harmless, as Sam describes them as "nice" and even mentions they haven't been looking very good lately. The blame for this should probably be placed on the Castle's basement entrance to THE UNDERDARK. The Underdark, a vast underground network right underneath Faerun, is home to all sorts of monsters that may be giving the squatters trouble. Acknowledging that a Castle and land doesn't run itself, the Party decides it may be a better idea to just recruit the squatters, opting for diplomacy.
+Upon waking, [[Ascánthir Crithatri]] seeks the information shared in the Party's dice rolling game. Heartbreakingly, [[Ascánthir Crithatri]] isn't asked a lot about his time away, but it is established that he was interrogated (but didn't snitch), an ancestor of his buffed his sword with a new rune, and he's 222 years old. Things get a little heated when [[Ysgraviir Ysraldsson]] casually entertains the notion of plucking [[Brannon]]'s feathers, which provokes [[Ascánthir Crithatri]] to threaten his life. Jokes are established to be jokes, and [[Ysgraviir Ysraldsson]] pokes fun at the amount of times [[Ven Kallix]] has been asked about his dead wife. This prompts Ven to fetch the bottle he got at the Red Herring, and leave the stable drinking it. He encounters [[Forge Unbroken]] working the fields to help [[Sam]] out. At some point, [[Ember Blackthorn-Fenwick]] reveals that her mom drank a Potion of a Fallen Star in the midst of childbirth, and [[Ysgraviir Ysraldsson]] informs the party that he has a sick light emitting ring he took from a hermit he killed. Eventually the Party gathers and learns that the squatters in the Castle may be harmless, as [[Sam]] describes them as "nice" and even mentions they haven't been looking very good lately. The blame for this should probably be placed on the Castle's basement entrance to THE UNDERDARK. The Underdark, a vast underground network right underneath Faerun, is home to all sorts of monsters that may be giving the squatters trouble. Acknowledging that a Castle and land doesn't run itself, the Party decides it may be a better idea to just recruit the squatters, opting for diplomacy.
 
-Meeting the squatting bandits at the entrance of the Castle, the Party quickly convinces the folks to take care of the keep, in exchange for 95% of their earnings from their fencing schemes. Aided by [[Rook Fenwick]] sneaking up and holding them at swordpoint, they accept the offer. The squatters are also discovered to be allegiant to The Blue Blade, a Robin Hood-esque fellow. The squatters advise the Party on the dangers of the basement, informing them of a large, nude, club-wielding giant. One of the bandits is asked to join the Party to give directions, and they set off.
+Meeting the squatting bandits, led by a certain [[Bandit Captain]], at the entrance of the Castle, the Party quickly convinces the folks to take care of the keep, in exchange for 95% of their earnings from their fencing schemes. Aided by [[Rook Fenwick]] sneaking up and holding them at swordpoint, the [[Bandit Captain]] accepts the offer. The squatters are also discovered to be allegiant to The Blue Blade, a Robin Hood-esque fellow. The squatters advise the Party on the dangers of the basement, informing them of a large, nude, club-wielding giant. One of the bandits is asked to join the Party to give directions, and they set off.
 
 > [!question]- Quest Updated! The Party: Proper Lords  
 > Turns out, owning this much property will be a lot of work.
 > 
-> NEW INFO - That was quick. The fields will remain maintained by Sam & family.
+> NEW INFO - That was quick. The fields will remain maintained by [[Sam]] & family.
 > 
 > NEWER INFO - That was also quick. But begrudging work from The Blue Blade adherents may not be ideal long term. 
 

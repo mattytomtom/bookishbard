@@ -2,9 +2,9 @@
 > Obtained in [[Session 2]]
 > 
 > Find out more about the Emerald Enclave
-> - A Gold Dragon named Gil advised to travel to Eveningstar, north of King's Forest, and seek out a fellow named Tenuvian.
+> - A Gold Dragon named Gil advised to travel to Eveningstar, north of King's Forest, and seek out a fellow named Tinuvian.
 > 
-> Updated in [[Session 3]] - Met Tenuvian, but haven't spoken yet.
+> Updated in [[Session 3]] - Met [[Tinuvian]], but haven't spoken yet.
 
 > [!question]- What is Love?  
 > Obtained in [[Session 2]]
