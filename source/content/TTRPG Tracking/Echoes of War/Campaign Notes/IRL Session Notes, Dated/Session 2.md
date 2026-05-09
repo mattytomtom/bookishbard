@@ -29,7 +29,7 @@ The Party seek a night's rest, but are visited by some nightmares. . . . I'm sur
 > [!question]- Quest Obtained! The Party: Dragon Slayer(s)  
 > Hilp's broke. Want a reqard for your work? Claim it from Queen [[Queen Raedra Obarskyr]].
 
-The Party collected individual rewards through request:
+Arriving at the [[Obarskyr Throne Room]], the Party collected individual rewards through request:
 - [[Ysgraviir Ysraldsson]] - Gold, and information on an individual he's tracking
 
 > [!question]- Quest Obtained! Ysgraviir: The Hunt  
@@ -57,7 +57,7 @@ The Party collected individual rewards through request:
 
 [[Crown Princess Adenia Obarskyr]] offered to enter the Party members' minds to reveal fortunes. [[Ven Kallix]] and [[Ysgraviir Ysraldsson]] obliged, receiving dire tidings.
 
-In the throne room, [[Ven Kallix]] spotted a man with brown hair and purple eyes spying on the group.
+In the [[Obarskyr Throne Room]], [[Ven Kallix]] spotted a man with brown hair and purple eyes spying on the group.
 
 > [!question]- Quest Obtained! The Party: Purple Prying Eyes  
 > In the throne room, [[Ven Kallix]] spotted a man with brown hair and purple eyes spying on the group. May need to follow up on that guy. People with such colored eyes tend to be important around here.
@@ -67,9 +67,9 @@ Before the meeting is concluded, it is established that the Party has been given
 > [!question]- Quest Updated! The Party: Siege Obsessed!  
 > Now it's canon! Obtained in [[Session 2]]
 > 
-> Clear out the Castle that [[Queen Raedra Obarskyr]] offered up
+> Clear out the Castle ([[Gladehaven Keep]]) that [[Queen Raedra Obarskyr]] offered up
 
-The Party had some separate downtime segments throughout [[Suzail]], with the plan in place to meet up later that night (Ches 22nd, 1487) at The Red Herring.
+The Party had some separate downtime segments throughout [[Suzail]], with the plan in place to meet up later that night (Ches 22nd, 1487) at [[Red Herring Inn & Tavern]].
 
 [[Ember Blackthorn-Fenwick]] and [[Rook Fenwick]] sent some mail.
 
