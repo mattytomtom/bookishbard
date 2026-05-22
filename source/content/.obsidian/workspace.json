@@ -375,12 +375,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TTRPG Tracking/Echoes of War/Campaign Notes/QUESTS/Current Party Quests.md",
+                "file": "TTRPG Tracking/Echoes of War/Reference/Who/The Party/Ascánthir Crithatri.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Current Party Quests"
+              "title": "Ascánthir Crithatri"
             }
           }
         ],
@@ -534,8 +534,12 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "632031a2f99bcd76",
+  "active": "b77831b90dd9f87b",
   "lastOpenFiles": [
+    "TTRPG Tracking/Image Log/Ascanthir Update.png",
+    "TTRPG Tracking/Image Log/Ascánthir.png",
+    "TTRPG Tracking/Echoes of War/Reference/Who/The Party/Ascánthir Crithatri.md",
+    "TTRPG Tracking/Echoes of War/Campaign Notes/QUESTS/Current Party Quests.md",
     "TTRPG Tracking/Echoes of War/Campaign Notes/IRL Session Notes, Dated/Session 2.md",
     "TTRPG Tracking/Echoes of War/Campaign Notes/IRL Session Notes, Dated/Session 3.md",
     "TTRPG Tracking/Echoes of War/Reference/Where/Visited Locations/Suzail (Locations Within)/Suzail.md",
@@ -552,7 +556,6 @@
     "TTRPG Tracking/Echoes of War/Reference/Where/Visited Locations/Gladehaven (Locations Within)",
     "TTRPG Tracking/Echoes of War/Reference/Where/Visited Locations/Hilp.md",
     "TTRPG Tracking/Echoes of War/Reference/Where/Visited Locations/Suzail (Locations Within)",
-    "TTRPG Tracking/Echoes of War/Campaign Notes/QUESTS/Current Party Quests.md",
     "TTRPG Tracking/Echoes of War/Reference/Who/NPCs/Gladehaven Keep/Shack 2 Inhabitants/Sick woman with mute children (not yet named).md",
     "TTRPG Tracking/Echoes of War/Reference/Who/NPCs/Gladehaven Keep/Shack 3 Inhabitants",
     "TTRPG Tracking/Echoes of War/Reference/Who/NPCs/Gladehaven Keep/Shack 2 Inhabitants",
@@ -568,14 +571,12 @@
     "TTRPG Tracking/Image Log/Tinuvian.png",
     "TTRPG Tracking/Echoes of War/Reference/Who/NPCs/Gladehaven Keep/Shack 3 Inhabitants/Slyther.md",
     "TTRPG Tracking/Image Log/Slither.jpg",
-    "TTRPG Tracking/Image Log/Skorgl.png",
     "TTRPG Tracking/Echoes of War/Reference/Who/NPCs/Suzail/Dar'Voril.md",
     "Skorgl.md",
     "TTRPG Tracking/Echoes of War/Reference/Who/NPCs/Gladehaven Keep/Shack 1 Inhabitants",
     "TTRPG Tracking/Echoes of War/Reference/What/Cormyrian Lore.md",
     "TTRPG Tracking/Echoes of War/Campaign Notes/QUESTS/Completed Quests.md",
     "TTRPG Tracking/Echoes of War/Campaign Notes/QUESTS/PC Side Quests/Ysgraviir.md",
-    "TTRPG Tracking/Echoes of War/Campaign Notes/QUESTS/PC Side Quests/Vaelithra.md",
     "TTRPG Tracking/Echoes of War/Reference/Who/NPCs/Gladehaven Keep",
     "TTRPG Tracking/Echoes of War/Reference/Where/Visited Locations",
     "category-folder"
