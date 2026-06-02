@@ -19,5 +19,12 @@ Session 2:
 > 
 > Claim reward from Queen [[Queen Raedra Obarskyr]]
 
-Session 3:
-- 
+Session 4:
+> [!success]- Quest Completed! The Party: Siege Obsessed!  
+> Obtained and updated in [[Session 2]]
+> 
+> Clear out the Castle ([[Gladehaven Keep]]) that [[Queen Raedra Obarskyr]] offered up
+> 
+> Updated in [[Session 3]] - The siege will take the Party to the Underdark!
+> 
+> Updated in [[Session 4]] - The Party defeated all the enemies inhabiting the cave.

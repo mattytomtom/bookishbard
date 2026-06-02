@@ -26,7 +26,7 @@
 > 
 > A familiar voice taunts and threatens.
 
-> [!question]- Tutorship and Discipleship  
-> Obtained in [[Session 3]]
+> [!question]- Ven and Forge: Tutorship and Discipleship  
+> An illiterate Paladin seeks help from a borderline heretical Deneirian scholar. This'll be fun.
 > 
-> Forge wants to learn to read and write. I wonder what god he follows. . .
+> Updated in [[Session 4]] - Forge is a fast learner.

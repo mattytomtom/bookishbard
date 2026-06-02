@@ -17,7 +17,7 @@
 > 
 > Updated in [[Session 3]] - Not much new info, just the Forge really doesn't care for this group.
 
-> [!question]- Tutorship and Discipleship  
-> Obtained in [[Session 3]]
+> [!question]- Ven and Forge: Tutorship and Discipleship  
+> An illiterate Paladin seeks help from a borderline heretical Deneirian scholar. This'll be fun.
 > 
-> Ven offers lessons in literacy. Why so eager?
+> Updated in [[Session 4]] - Forge is a fast learner.

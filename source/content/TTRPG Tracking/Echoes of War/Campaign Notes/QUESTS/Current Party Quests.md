@@ -1,9 +1,3 @@
-> [!question]- Siege Obsessed!  
-> Obtained and updated in [[Session 2]]
-> 
-> Clear out the Castle ([[Gladehaven Keep]]) that [[Queen Raedra Obarskyr]] offered up
-> 
-> Updated in [[Session 3]] - The siege will take the Party to the Underdark!
 
 > [!question]- Proper Lords  
 > Obtained and updated in [[Session 3]]

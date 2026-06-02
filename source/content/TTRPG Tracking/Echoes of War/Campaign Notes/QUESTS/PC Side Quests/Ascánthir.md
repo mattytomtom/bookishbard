@@ -13,6 +13,9 @@
 > 
 > The Red Wizards of Thay seem to be a problem that needs solving. They have in their possession a book called The Book of Vile Darkness. That can't be good.
 >  - The last known whereabouts of the unnamed fellow were provided as being the Well of Dragons.
+>  
+>Updated in [[Session 2.5]] - Welp. He found them.
+>
 
 
 
