@@ -69,8 +69,34 @@ The Party travels to [[Suzail]] to take part in the festivities of the "Ode to t
 
 - [[Ascánthir Crithatri]] seeks the same Temple of Mystra. Looking out for an area with forbidden tomes, he sees an area with an illusory wall obscuring the titles. With [[Brannon]] offering no help, [[Ascánthir Crithatri]] approaches [[Grandsire Na’thaniél]], who is chatting wiht a War Wizard of [[Suzail]]. [[Ascánthir Crithatri]] expresses an interest in phylacteries, and adds that he wishes to know how to destroy them. He is refused this information, being told by the War Wizard that he is now on "a list" earning him a scolding from [[Grandsire Na’thaniél]], who advises him to seduce the info from [[Mistress Ossani Eveningspire]].
 - [[Vaelithra Igristisk]] seeks out a temple of Bahamut. She meets a copper Dragonborn named Zabian, who congratulates her on passing her trial. After asking abut the Golden Orator, she is told he recently left to go jewelry shopping for the purposes of spell components, prompting her to rush of the temple in pursuit. In her chase, Vaelithra witnesses an awkward exchange between and orc and a serpentine merchant. Eventually tracking down her Dragonborn, they exchange pleasantries; his name is [[Tanreth Saer]]. Tanreth points out that she needs to pass more tests, as she is still at bronze level. He indicates he works for a librarian (Gil?) and paid a child to "obtain knowledge", and offers to buy [[Vaelithra Igristisk]] a drink some time.
+
+> [!question]- Quest Updated! Vaelithra: Dragon Tales  
+> Obtained in [[Session 0 and 1]]
+> 
+> Has some stuff going on with Bahamut, loves feathers.
+> 
+> Updated in [[Session 2]] - Gil the Golden Greatwyrm gave her a textbook on Bahamut. Get to reading!
+> 
+> Updated in [[Session 3]] - If you want the job done right, do it yourself; she set off solo to find the Dragonborn of her dreams.
+> 
+> Updated in [[Session 3.5]] - After being tested, she is told that the Dragonborn will be at the coming festivals in [[Suzail]].
+> 
+> Updated in [[Session 4]] - Get to "Gold Level", more tests to come.
+
 - [[Ysgraviir Ysraldsson]] and [[Forge Unbroken]] team up to waltz around, where they are intercepted by a stern [[Prince Erzoured Obarskyr]]. The Prince demands an apology, and is offered a very sarcastic one by Ysgraviir. The Prince demands they come with him, and they follow to a temple to Selune. Erzoured is pissed about the whole throwing-daggers-at-a-citizen thing, and briefly feigns not knowing the citizen in question was Ysgraviir, who in turn feigns outrage. The Prince is not amused, and reveals that he also knows about the pair's sauna adventure, and indicates that a whole host of laws were broken. 5 at the very least. The Prince specifically accuses them of treasonous indecency, heinous deeds, partaking in an underground business, and carrying weapons without permit. In return for waiving the punishment for these crimes, the Prince charges the pair to discourage [[Ven Kallix]] from spending more time with [[Lady Sarya Crownsilver]], as it is staining her reputation.
 - [[Ven Kallix]] seeks out a temple of Selune, showing up after [[Prince Erzoured Obarskyr]] leaves. Encountering [[Ysgraviir Ysraldsson]] and [[Forge Unbroken]], he is informed of the charge to not speak to [[Lady Sarya Crownsilver]]. Ven gets downright indignant at this, and invites the two to join him at the Wide-Eyed Willow cafe, where he expects to find Sarya. They enter the cafe separately, and [[Ysgraviir Ysraldsson]] and [[Forge Unbroken]] join a table of ladies playing blackjack. [[Ven Kallix]], after finding [[Lady Sarya Crownsilver]] with a chaperone, sits to talk, initially concerned for her safety. After confirming her situation is simply the result of a spurned betrothal, Ven pops his top, openly disparaging the Royal Suzailian standards of courtship. Casting Enlarge on both Forge and Ysgraviir in a failed attempt to distract the chaperone, Ven leaves a book of poetry before being informed by Sarya that he is being way too extra. The scene ends with Ven, Ysgraviir and Forge being banned from the cafe.
+
+> [!question]- Quest Updated! Ven: What is Love?  
+> Obtained in [[Session 2]]
+> 
+> Navigate "moving on"
+> - Met an Elf named [[Lady Sarya Crownsilver]] in Promenade Park, she had a suitor once that fell through
+> 	- She eats at the same cafe every morning
+> 
+> Update from [[Session 3]] - Maybe work on yourself first, bud.
+> 
+> Update from [[Session 4]] - . . . not like that.
+
 - [[Rook Fenwick]] goes shopping, and tries (unsuccessfully) to do business with a nearly deaf gnome. A ~9 year old shop assistant show up, with which Rook engages in an attempt to buy arrows. The assistant's inability to count past 6 complicates things, but they work it out eventually. After buying "three 6 and 2 arrows", Rook seeks another store to buy some potions. The shopkeeper, initially a hunched over old woman, suddenly becomes a certified baddie, and asks Rook if he's poor when he hesitates to make it rain for some expensive potions. He eventually buys 5 greater health potions on sale.
 
 __END OF SESSION__

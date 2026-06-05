@@ -14,6 +14,9 @@
 > 	- She eats at the same cafe every morning
 > 
 > Update from [[Session 3]] - Maybe work on yourself first, bud.
+> 
+> Update from [[Session 4]] - . . . not like that.
+
 
 > [!question]- Spend it all in One Place  
 > Obtained in [[Session 2]]
