@@ -4,6 +4,8 @@
 > Has ties to nobility? 
 > 
 > Update from [[Session 2]]: Maybe someone by the name of Ashcroft shares noble ties; an enemy?
+> 
+> Update from [[Session 4]]: Not really any new info, but we got another Ashcroft namedrop. SUSPENSE.
 
 > [!question]- Nocturnal Missions  
 > Obtained in [[Session 2]]
