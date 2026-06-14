@@ -33,3 +33,10 @@
 > An illiterate Paladin seeks help from a borderline heretical Deneirian scholar. This'll be fun.
 > 
 > Updated in [[Session 4]] - Forge is a fast learner.
+> 
+> Updated in [[Session 5]] - Why did we study q before g?
+
+> [!question]- Every Band Needs a Name
+> Obtained in [[Session 5]]
+> 
+> Eight members. Many missions. One name. What could it be?

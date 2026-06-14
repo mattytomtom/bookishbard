@@ -438,9 +438,65 @@
               "icon": "lucide-file",
               "title": "Session 4"
             }
+          },
+          {
+            "id": "0fee5c1b85459076",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TTRPG Tracking/Echoes of War/Campaign Notes/IRL Session Notes, Dated/Session 5.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Session 5"
+            }
+          },
+          {
+            "id": "c8fafb58d78ab214",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TTRPG Tracking/Echoes of War/Reference/Who/The Party/Tharrick.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tharrick"
+            }
+          },
+          {
+            "id": "07d60b4e2376c42b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TTRPG Tracking/Echoes of War/Campaign Notes/IRL Session Notes, Dated/Session 5.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Session 5"
+            }
+          },
+          {
+            "id": "8236ec963cf76d85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TTRPG Tracking/Echoes of War/Campaign Notes/QUESTS/PC Side Quests/Ven Kallix.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ven Kallix"
+            }
           }
         ],
-        "currentTab": 30
+        "currentTab": 34
       }
     ],
     "direction": "vertical"
@@ -590,37 +646,37 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "218b9481c3f35ead",
+  "active": "8236ec963cf76d85",
   "lastOpenFiles": [
-    "TTRPG Tracking/Echoes of War/Campaign Notes/QUESTS/PC Side Quests/Ven.md",
-    "TTRPG Tracking/Echoes of War/Campaign Notes/IRL Session Notes, Dated/Session 4.md",
-    "TTRPG Tracking/Echoes of War/Campaign Notes/QUESTS/PC Side Quests/Vaelithra.md",
-    "TTRPG Tracking/Echoes of War/Reference/Where/Visited Locations/Gladehaven (Locations Within)/Gladehaven Keep.md",
-    "TTRPG Tracking/Echoes of War/Campaign Notes/IRL Session Notes, Dated/Session 0 and 1.md",
-    "TTRPG Tracking/Echoes of War/Campaign Notes/QUESTS/PC Side Quests/Rook.md",
-    "TTRPG Tracking/Echoes of War/Campaign Notes/QUESTS/PC Side Quests/Ember.md",
-    "TTRPG Tracking/Echoes of War/Reference/Who/NPCs/Hilp/Tanreth Saer.md",
-    "TTRPG Tracking/Echoes of War/Campaign Notes/IRL Session Notes, Dated/Session 3.5.md",
-    "TTRPG Tracking/Echoes of War/Campaign Notes/IRL Session Notes, Dated/Session 3.md",
-    "TTRPG Tracking/Echoes of War/Campaign Notes/QUESTS/PC Side Quests/Ascánthir.md",
-    "TTRPG Tracking/Echoes of War/Campaign Notes/IRL Session Notes, Dated/Session 2.5.md",
-    "TTRPG Tracking/Echoes of War/Campaign Notes/IRL Session Notes, Dated/Session 2.md",
-    "TTRPG Tracking/Echoes of War/Campaign Notes/QUESTS/PC Side Quests/Forge.md",
-    "TTRPG Tracking/Echoes of War/Campaign Notes/QUESTS/PC Side Quests/Ysgraviir.md",
+    "TTRPG Tracking/Echoes of War/Campaign Notes/IRL Session Notes, Dated/Session 5.md",
+    "TTRPG Tracking/Echoes of War/Reference/Who/The Party/Ysgraviir.md",
+    "TTRPG Tracking/Echoes of War/Reference/Who/The Party/Ven.md",
+    "TTRPG Tracking/Echoes of War/Reference/Who/The Party/Vaelithra.md",
+    "TTRPG Tracking/Echoes of War/Reference/Who/The Party/Tharrick.md",
+    "TTRPG Tracking/Echoes of War/Reference/Who/The Party/Rook.md",
+    "TTRPG Tracking/Echoes of War/Reference/Who/The Party/Forge.md",
+    "TTRPG Tracking/Echoes of War/Reference/Who/The Party/Ember.md",
+    "TTRPG Tracking/Echoes of War/Reference/Who/The Party/Ascánthir.md",
+    "TTRPG Tracking/Echoes of War/Campaign Notes/QUESTS/PC Side Quests/Forge Unbroken.md",
     "TTRPG Tracking/Echoes of War/Campaign Notes/QUESTS/Current Party Quests.md",
-    "TTRPG Tracking/Echoes of War/Campaign Notes/QUESTS/Completed Quests.md",
-    "TTRPG Tracking/Echoes of War/Reference/Who/NPCs/Gladehaven Keep/Bandit Captain.md",
-    "TTRPG Tracking/Echoes of War/Reference/Who/NPCs/Gladehaven Keep/Formorian.md",
-    "TTRPG Tracking/Echoes of War/Reference/Who/NPCs/Gladehaven Keep/Shack 3 Inhabitants/Slyther.md",
-    "TTRPG Tracking/Echoes of War/Reference/Who/The Party/Ven Kallix.md",
+    "TTRPG Tracking/Echoes of War/Campaign Notes/QUESTS/PC Side Quests/Ysgraviir Ysraldsson.md",
+    "TTRPG Tracking/Echoes of War/Campaign Notes/QUESTS/PC Side Quests/Ven Kallix.md",
+    "TTRPG Tracking/Echoes of War/Campaign Notes/QUESTS/PC Side Quests/Vaelithra Igristisk.md",
+    "TTRPG Tracking/Echoes of War/Campaign Notes/QUESTS/PC Side Quests/Tharrick Fellwing.md",
+    "TTRPG Tracking/Echoes of War/Campaign Notes/QUESTS/PC Side Quests/Rook Fenwick.md",
+    "TTRPG Tracking/Echoes of War/Campaign Notes/QUESTS/PC Side Quests/Ember Blackthorn-Fenwick.md",
+    "TTRPG Tracking/Echoes of War/Campaign Notes/QUESTS/PC Side Quests/Ascánthir Crithatri.md",
+    "TTRPG Tracking/Echoes of War/Reference/Where/Visited Locations/Suzail (Locations Within)/Red Herring Inn & Tavern.md",
+    "TTRPG Tracking/Echoes of War/Reference/Who/NPCs/Suzail/Zabrina Carpenter Bee.md",
+    "TTRPG Tracking/Echoes of War/Campaign Notes/IRL Session Notes, Dated/Session 4.md",
+    "TTRPG Tracking/Echoes of War/Reference/Who/NPCs/Suzail/Queen Raedra Obarskyr.md",
+    "TTRPG Tracking/Echoes of War/Reference/Who/NPCs/Suzail/Prince Erzoured Obarskyr.md",
+    "TTRPG Tracking/Echoes of War/Reference/Who/NPCs/Suzail/Prince Baerovus Obarskyr.md",
+    "TTRPG Tracking/Echoes of War/Reference/Who/NPCs/Suzail/Opal, High Priestess of Selune.md",
+    "TTRPG Tracking/Echoes of War/Reference/Who/NPCs/Suzail/Mistress Ossani Eveningspire.md",
     "TTRPG Tracking/Image Log/fomorian.jpg",
-    "TTRPG Tracking/Echoes of War/Reference/Who/The Party/Ascánthir Crithatri.md",
     "TTRPG Tracking/Image Log/Ascanthir Update.png",
     "TTRPG Tracking/Image Log/Ascánthir.png",
-    "TTRPG Tracking/Echoes of War/Reference/Where/Visited Locations/Suzail (Locations Within)/Suzail.md",
-    "TTRPG Tracking/Echoes of War/Reference/Where/Visited Locations/Suzail (Locations Within)/Red Herring Inn & Tavern.md",
-    "TTRPG Tracking/Echoes of War/Reference/Where/Visited Locations/Suzail (Locations Within)/Obarskyr Throne Room.md",
-    "TTRPG Tracking/Echoes of War/Reference/Where/Visited Locations/Gladehaven (Locations Within)/Sam's Village.md",
     "TTRPG Tracking/Image Log/Red_Herring_Inn.jpg",
     "TTRPG Tracking/Image Log/Throne_Room.jpg",
     "TTRPG Tracking/Image Log/sams_Village.jpg",

@@ -1,7 +1,7 @@
 > [!question]- Nocturnal Missions  
 > Obtained in [[Session 2]]
 > 
-> Shares a nightmare with [[Ember Blackthorn-Fenwick]] of a red-cloaked figure with a gold(?) mask.
+> Shares a nightmare with [[Ember]] of a red-cloaked figure with a gold(?) mask.
 
 > [!question]- The Royal We  
 > Obtained in [[Session 0 and 1]]

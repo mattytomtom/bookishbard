@@ -1,9 +1,9 @@
 "Holy War"
-[[Vaelithra Igristisk]] solo quest, took place somewhere in the realm of Ches 22nd.
+[[Vaelithra]] solo quest, took place somewhere in the realm of Ches 22nd.
 
-According to [[Vaelithra Igristisk]], in a conversation in [[Gladehaven Keep]] in [[Session 4]]:
+According to [[Vaelithra]], in a conversation in [[Gladehaven Keep]] in [[Session 4]]:
 
-Traveling to a church in search of the Gold Dragonborn from her dream, [[Vaelithra Igristisk]] was led to a beach to receive a "moral test". She learns that she can't meet the Dragonborn until she passes these tests, but he will be at the coming festivals in [[Suzail]]. She is eventually teleported into the cave system under [[Gladehaven Keep]].
+Traveling to a church in search of the Gold Dragonborn from her dream, [[Vaelithra]] was led to a beach to receive a "moral test". She learns that she can't meet the Dragonborn until she passes these tests, but he will be at the coming festivals in [[Suzail]]. She is eventually teleported into the cave system under [[Gladehaven Keep]].
 
 > [!question]- Quest Updated! Vaelithra: Dragon Tales  
 > Obtained in [[Session 0 and 1]]

@@ -10,5 +10,5 @@
 > [!question]- Nocturnal Missions  
 > Obtained in [[Session 2]]
 > 
-> Shares a nightmare with [[Rook Fenwick]] of a red-cloaked figure with a gold(?) mask.
+> Shares a nightmare with [[Rook]] of a red-cloaked figure with a gold(?) mask.
 

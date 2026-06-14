@@ -10,14 +10,16 @@
 > 
 > A rogue-ish figure taunted him in a nightmare. 
 
-> [!question]- The Right Hand Sins, So Cut it Off
-> Obtained in [[Session 2]]
-> 
-> When a paladin says someone's evil, believe them.
-> 
-> Updated in [[Session 3]] - Not much new info, just the Forge really doesn't care for this group.
-
 > [!question]- Ven and Forge: Tutorship and Discipleship  
 > An illiterate Paladin seeks help from a borderline heretical Deneirian scholar. This'll be fun.
 > 
 > Updated in [[Session 4]] - Forge is a fast learner.
+
+> [!question]- Mithril Mishaps at the Fraudulent Forge
+> Obtained and updated in [[Session 5]]
+> 
+> The Dwarf Vance wants to know how Irelyn is selling mithril for so cheap at A Softer Touch. If [[Forge]] can get to the bottom of things, he'll get a sweet shield upgrade for cheap.
+> 
+> Update - Not sure where this is going. Subterfuge via date night? Irelyn doesn't seem so bad I guess.
+> 
+> Updated again - [[Ascánthir]] joins the quest.
