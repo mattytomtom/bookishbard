@@ -7,4 +7,4 @@ Accompanied by his [[Grandsire Na’thaniél]] and his familiar [[Brannon]]
 
 222 years old.
 
-May or may not be half elven.
+Half sun elf, half moon elf.
